@@ -1,4 +1,3 @@
-document.bgColor="#3c3c3c"
 
 
 var width = d3.select('svg').attr('width');
